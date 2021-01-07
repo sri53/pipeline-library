@@ -1,0 +1,11 @@
+<p>
+    sayHello()
+    <ul>
+      <li>String as parameter</li>
+      <li>Default value is human</li>
+    </ul>
+</p>
+
+<!--
+vim: ft=html
+-->
